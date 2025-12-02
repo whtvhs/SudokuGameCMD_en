@@ -1,5 +1,4 @@
 # SudokuGameCMD_en
-# SudokuGameCMD_en
 # 🎮 Sudoku with Command Control
 
 **A terminal-based Sudoku game with unique command-based control system and theme support.**
